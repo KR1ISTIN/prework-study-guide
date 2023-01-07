@@ -9,7 +9,7 @@ This Prework Study Guide was created for my UTSA Full Stack bootcamp course. It 
 
 ## Installation
 
-N/a
+N/A
 
 ## Usage
 
@@ -18,7 +18,7 @@ To use this Prework Study Guide, you can review the notes in each section. For s
 
 ## Credits
 
-N/a
+N/A
 
 ## License
 
